@@ -1,6 +1,34 @@
 - 👋 Hi, I’m @tamermaarouf
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript,OOP JavaScript, JavaScript Design Pattern, Python, comouter science, web crawel, learning new things
+- 🌱 I’m currently learning First Trimester:
+                    Intro to:
+                      Emacs
+                      Vim
+                      Git/Github
+                    C
+                      Basics
+                      Functions
+                      Pointers
+                      Data Structures
+                        Singly Linked Lists
+                        Arrays
+                    Bit Manipulation
+                    Variadic Functions
+                    Memory Management
+                    File Redirection
+                    printf
+                    Shell
+                    Compilation
+                    Heap/Stack
+                    Linux
+                      Basics
+                      Permissions
+                      Redirections
+                      Syscalls
+                    Static Libraries
+                    Social Media
+                    Public Speaking/Stand ups
+                    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/tamer-maarouf-029b6131/, https://www.behance.net/tamerma3rouf, https://codepen.io/tamermaarouf
 
