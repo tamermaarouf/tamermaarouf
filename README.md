@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @tamermaarouf
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning First Trimester:
-                    Intro to:
-                      Emacs
-                      Vim
+-                     Intro to:
+-                     Emacs
+-                     Vim
                       Git/Github
                     C
                       Basics
