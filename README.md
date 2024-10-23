@@ -28,9 +28,9 @@ During my study, I built project
 - Landing Page
 
 AS a senior graphic designer with diverse experiences (10+ years).
-● Created and produced new media for outdoor & indoor signs and acting as a quality control factor checking the targeted image of the marketing department of the client .
-● I also provide optimization solutions for CNC, Plasma, laser, and vinyl cutting.
-● I can convert Bezier curves in CorelDraw to either LINE or ARC DXF entities.
-● In other words, instead of many very short lines, the DXF file contains as many smooth curves as possible from the CorelDraw shapes in your drawing.
+* Created and produced new media for outdoor & indoor signs and acting as a quality control factor checking the targeted image of the marketing department of the client .
+* I also provide optimization solutions for CNC, Plasma, laser, and vinyl cutting.
+* I can convert Bezier curves in CorelDraw to either LINE or ARC DXF entities.
+* In other words, instead of many very short lines, the DXF file contains as many smooth curves as possible from the CorelDraw shapes in your drawing.
 
 if you want to update your logo resolution or any illustrations for high resolution printing or personnel use just send me the file and I do the rest (HD, FHD, 4K, 8K....) with any source file you want.
